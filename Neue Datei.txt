@@ -1,2 +1,5 @@
 ﻿Hier ist eine neue Datei, die ich über github direkt in dem master Branch erzeugt habe
 Noch eine Änderung. Aus der zweiten Stelle des MAsters
+Ich habe die Datei direkt in dem Repositoy-Server bz. über github geändert!
+
+Wo ist meine Änderungen aus dem lokalen Repository?
